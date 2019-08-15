@@ -1,1 +1,4 @@
-def map_to_negativiz
+def map_to_negativize(source_array)
+  i = 0
+  while i < source.array
+end
